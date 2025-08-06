@@ -1,0 +1,9 @@
+/* Variables CSS para los colores de Microsoft Copilot */
+:root {
+  /* Colores primarios de la marca Microsoft Copilot */
+  --copilot-primary-blue: #1b88d8;
+  --copilot-secondary-blue: #1c57db;
+  --copilot-cyan: #0cafe1;
+  --copilot-teal: #3ecfa6;
+  --copilot-turquoise: #16bbc1;
+}
