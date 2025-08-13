@@ -1,9 +1,30 @@
-/* Variables CSS para los colores de Microsoft Copilot */
-:root {
-  /* Colores primarios de la marca Microsoft Copilot */
-  --copilot-primary-blue: #1b88d8;
-  --copilot-secondary-blue: #1c57db;
-  --copilot-cyan: #0cafe1;
-  --copilot-teal: #3ecfa6;
-  --copilot-turquoise: #16bbc1;
+
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #0cafe1;
+}
+
+
+h1 {
+  background-color: #3ecfa6;
+  color: rgb(255, 255, 255);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 20px;
+}
+
+p.intro{
+  font-size: 3rem;
+  color: rgb(255, 255, 255);
+  background-color: #16bbc1;
+}
+
+
+.logo {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.logo img {
+    width: 130px;
 }
