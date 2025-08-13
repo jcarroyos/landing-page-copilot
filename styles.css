@@ -1,13 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Puddles&display=swap');
+
+:root{
+  /* Colores de la marca Microsoft Copilot */
+  --azul: #1b88d8;
+  --azul-marino: #0cafe1;
+  --verde: #3ecfa6;
+  --cyan: #16bbc1;
+  --azul-oscuro: #1c57db;
+}
+
+
 
 body{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #0cafe1;
+  font-family: "Roboto", sans-serif;
+  background-color: var(--azul-marino);
+  
 }
 
 
 h1 {
   background-color: #3ecfa6;
-  color: rgb(255, 255, 255);
+  color: var(--azul-marino);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding: 20px;
 }

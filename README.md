@@ -6,11 +6,11 @@ El objetivo de este sitio web es presentar el nuevo botón de vista previa desde
 
 Colores primarios de la marca Microsoft Copilot:
 
-- #1b88d8
-- #0cafe1
-- #3ecfa6
-- #16bbc1
-- #1c57db
+- #1b88d8 azul
+- #0cafe1 azul-marino
+- #3ecfa6 verde
+- #16bbc1 cyan
+- #1c57db azul-oscuro
 
 ## Tipografía
 
